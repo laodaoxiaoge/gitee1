@@ -1,0 +1,150 @@
+{
+  "lives": [
+    {
+      "name": "冰茶",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://fy.188766.xyz/?ip=&mishitong=true&mima=mianfeidehaimianqian&json=true",
+      "ua": "bingcha/1.1 (mianfeifenxiang) "
+    },
+        {
+            "name": "china TV",
+            "type": 0,
+            "url": "https://live.tv.darwinchow.com/sub/02Rh9cCU1AWFMNy6qVCmkwbV7dPhuX",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "猴子",
+            "type": 0,
+            "url": "http://4tv.nxns.uno/moonkey/4tv/raw/branch/main/tv.m3u",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "自动更新1",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://github.com/laodaoxiaoge/iptv-api/raw/master/output/result.m3u",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "自动更新2",
+            "type": 0,
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/laodaoxiaoge/IPTV_kimwang1978/refs/heads/master/live.m3u",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "医工日志1",
+            "type": 0,
+            "url": "http://iptv.cqshushu.com/jzb25.php?type=m3u&token=525a581a57f3d4f8b3bee921b782ca03",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "医工日志2",
+            "type": 0,
+            "url": "http://iptv.cqshushu.com/jiekou.php?jk=m3u&token=525a581a57f3d4f8b3bee921b782ca03",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
+            "playerType": 1
+        },
+        {
+            "name": "IPTV",
+            "type": 0,
+            "url": "https://gongdian.top/tv/iptv",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        },
+        {
+            "name": "bingcha",
+            "type": 0,
+            "url": "https://gongdian.top/tv/bingcha",
+            "playerType": 1
+        },
+        {
+            "name": "咪咕-720P",
+            "type": 0,
+            "url": "https://gongdian.top/tv/develop202",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        },
+        {
+            "name": "酒店源",
+            "type": 0,
+            "url": "https://gongdian.top/tv/guovin",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        },
+        {
+            "name": "webview源",
+            "type": 0,
+            "url": "https://gongdian.top/tv/webvideo.txt",
+            "playerType": 1,
+            "logo": "https://gongdian.top/tv/taibiao/{name}.png"
+        },
+        {
+            "name": "范明明IPV6",
+            "type": 0,
+            "url": "https://gongdian.top/tv/fanmingming",
+            "playerType": 1
+        },
+        {
+            "name": "斗鱼一起看",
+            "type": 0,
+            "url": "https://gongdian.top/tv/Mursor/douyuyqk.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "虎牙一起看",
+            "type": 0,
+            "url": "https://gongdian.top/tv/Mursor/huyayqk.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "哔哩live",
+            "type": 0,
+            "url": "https://gongdian.top/tv/Mursor/bililive.m3u",
+            "playerType": 1
+        },
+        {
+            "name": "自用带台标",
+            "type": 0,
+            "url": "https://gitee.com/hello186/IPTV_Personal/raw/master/%E8%87%AA%E7%94%A8.m3u",
+            "playerType": 1
+        }
+  ],
+  "headers": [
+    {
+      "host": "hlsztemgsplive.miguvideo.com",
+      "header": {
+        "User-Agent": "bingcha/1.1 (mianfeifenxiang) "
+      }
+    }
+  ],
+  "proxy": [
+    "raw.githubusercontent.com"
+  ],
+  "hosts": [
+    "hlsztemgsplive.miguvideo.com=hlsztemgsplive.miguvideo.com.b.cdn.chinamobile.com",
+    "push-rtmp-hs-spe-f5.douyincdn.com=source-fcdn-spe-push.s.bytefcdn.com",
+    "cdn9.163189.xyz=gcore.jsdelivr.net",
+    "cache.ott.fifalive.itv.cmvideo.cn=cache.ott.fifalive.itv.cmvideo.cn.e.cdn.chinamobile.com",
+    "studentlive.migucloud.com=base-v4v6-miguvideo.e.cdn.chinamobile.com"
+  ],
+  "ads": [
+    "static-mozai.4gtv.tv"
+  ]
+}
