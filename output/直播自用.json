@@ -120,9 +120,9 @@
             "playerType": 1
         },
         {
-            "name": "自用带台标",
+            "name": "上海移动",
             "type": 0,
-            "url": "https://gitee.com/hello186/IPTV_Personal/raw/master/%E8%87%AA%E7%94%A8.m3u",
+            "url": "https://raw.githubusercontent.com/laodaoxiaoge/gitee1/refs/heads/main/上海移动.txt",
             "playerType": 1
         }
   ],
@@ -149,5 +149,6 @@
   ]
 
 }
+
 
 
