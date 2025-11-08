@@ -123,6 +123,9 @@
             "name": "上海移动",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/laodaoxiaoge/gitee1/refs/heads/main/上海移动.txt",
+            "epg": "https://epg.iill.top/epg.xml",
+            "ua": "okhttp/3.8.1",
+            "timeout": 20,
             "playerType": 1
         }
   ],
@@ -149,6 +152,7 @@
   ]
 
 }
+
 
 
 
