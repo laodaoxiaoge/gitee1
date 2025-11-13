@@ -1,5 +1,4 @@
-===公众号【睡眼迷离的猫】代理===
-请低调使用
+
 CCTV1,http://iptv.666230.xyz/iptv/sxg.php/CCTV-1H265_4000
 CCTV2,http://iptv.666230.xyz/iptv/sxg.php/CCTV-2H265_4000
 CCTV3,http://iptv.666230.xyz/iptv/sxg.php/CCTV-3H265_4000
@@ -282,4 +281,5 @@ CETV4,http://iptv.666230.xyz/iptv/sxg.php/CETV-4H264_2000
 松潘新闻,http://iptv.666230.xyz/iptv/sxg.php/spxwzhpdH264_2000
 三台一套,http://iptv.666230.xyz/iptv/sxg.php/stxwHD_2000
 高县一套,http://iptv.666230.xyz/iptv/sxg.php/gxt_2000
+
 峨眉山综合,http://iptv.666230.xyz/iptv/sxg.php/emsxw_2000
