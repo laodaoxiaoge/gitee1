@@ -11,7 +11,7 @@
             "name": "china TV",
             "type": 0,
             "url": "https://live.tv.darwinchow.com/sub/02Rh9cCU1AWFMNy6qVCmkwbV7dPhuX",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -20,7 +20,7 @@
             "name": "猴子",
             "type": 0,
             "url": "http://4tv.nxns.uno/moonkey/4tv/raw/branch/main/tv.m3u",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -29,7 +29,7 @@
             "name": "自动更新1",
             "type": 0,
             "url": "https://gh-proxy.com/https://github.com/laodaoxiaoge/iptv-api/raw/master/output/result.m3u",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -38,7 +38,7 @@
             "name": "自动更新2",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/laodaoxiaoge/IPTV_kimwang1978/refs/heads/master/live.m3u",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -47,7 +47,7 @@
             "name": "医工日志1",
             "type": 0,
             "url": "http://iptv.cqshushu.com/jzb25.php?type=m3u&token=525a581a57f3d4f8b3bee921b782ca03",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -56,7 +56,7 @@
             "name": "医工日志2",
             "type": 0,
             "url": "http://iptv.cqshushu.com/jiekou.php?jk=m3u&token=525a581a57f3d4f8b3bee921b782ca03",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -123,7 +123,7 @@
             "name": "上海移动",
             "type": 0,
             "url": "https://gh-proxy.com/https://raw.githubusercontent.com/laodaoxiaoge/gitee1/refs/heads/main/%E4%B8%8A%E6%B5%B7%E7%A7%BB%E5%8A%A8.txt",
-            "epg": "https://epg.iill.top/epg.xml",
+            "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
             "playerType": 1
@@ -152,6 +152,7 @@
   ]
 
 }
+
 
 
 
