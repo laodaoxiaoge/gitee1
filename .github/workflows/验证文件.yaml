@@ -1,0 +1,9 @@
+- name: 诊断文件结构
+  run: |
+    echo "当前工作目录: $(pwd)"
+    echo "文件列表:"
+    ls -la
+    echo "utils目录内容:"
+    ls -la utils/ || echo "utils目录不存在"
+    echo "检查tools.py:"
+    cat utils/tools.py || echo "tools.py不存在"
