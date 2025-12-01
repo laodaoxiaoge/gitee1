@@ -8,7 +8,7 @@
       "ua": "bingcha/1.1 (mianfeifenxiang) "
     },
         {
-            "name": "china TV",
+            "name": "1",
             "type": 0,
             "url": "https://live.tv.darwinchow.com/sub/02Rh9cCU1AWFMNy6qVCmkwbV7dPhuX",
             "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
@@ -152,6 +152,7 @@
   ]
 
 }
+
 
 
 
