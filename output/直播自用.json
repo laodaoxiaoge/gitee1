@@ -17,9 +17,9 @@
             "playerType": 1
         },
         {
-            "name": "猴子",
+            "name": "yidong",
             "type": 3,
-            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/laodaoxiaoge/gitee1/refs/heads/main/74123.py",
+            "url": "https://gh-proxy.com/https://raw.githubusercontent.com/laodaoxiaoge/gitee1/refs/heads/main/hebeiyidong.txt",
             "epg": "https://gitee.com/taksssss/tv/raw/main/epg/112114.xml",
             "ua": "okhttp/3.8.1",
             "timeout": 20,
@@ -152,6 +152,7 @@
   ]
 
 }
+
 
 
 
